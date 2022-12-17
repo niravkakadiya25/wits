@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "944084839821",
+    "project_id": "wit-tech-demo",
+    "storage_bucket": "wit-tech-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944084839821:android:9058f9a8e4345f45fee1c4",
+        "android_client_info": {
+          "package_name": "com.wit.wit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944084839821-7hdaduu0pnecbtasvfj9re33iafo2tj0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wit.wit",
+            "certificate_hash": "86d3f133e0e14c724b5cfbee1d994d638ceceea8"
+          }
+        },
+        {
+          "client_id": "944084839821-61ajrishh3lbd9543a2kub2eg2cj667j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1208uaoBOPBmfdzuuqLcGiFPE0Rayn0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944084839821-61ajrishh3lbd9543a2kub2eg2cj667j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
